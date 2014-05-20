@@ -1,3 +1,4 @@
 DBI,>=1.0,cpan,Required.
 Crypt::CBC,>=1.0,cpan,Required.
 Crypt::Blowfish,>=1.0,cpan,Required.
+Foswiki::Plugins::MetaDataPlugin,>=4.0,perl,Optional.
