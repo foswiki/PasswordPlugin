@@ -1,0 +1,5 @@
+data/System/PasswordPlugin.txt 0644
+lib/Foswiki/Form/Password.pm 0644
+lib/Foswiki/Plugins/PasswordPlugin/Config.spec 0644
+lib/Foswiki/Plugins/PasswordPlugin/Core.pm 0644
+lib/Foswiki/Plugins/PasswordPlugin.pm 0644
